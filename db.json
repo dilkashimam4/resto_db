@@ -1,0 +1,105 @@
+{
+    "users": [
+      {
+        "name": "Dilkash",
+        "email": "dilkash@yahoo.com",
+        "password": "dilkash",
+        "id": "1"
+      },
+      {
+        "name": "Dilkash imam",
+        "email": "dilkashimam@yahoo.com",
+        "password": "dilkash",
+        "id": "2"
+      },
+      {
+        "name": "dil",
+        "email": "dil@mg.dsk",
+        "password": "Dilk@32",
+        "id": "3"
+      },
+      {
+        "name": "test",
+        "email": "test@test.com",
+        "password": "test@123",
+        "id": "4"
+      },
+      {
+        "name": "test",
+        "email": "test@test.com",
+        "password": "test@1234",
+        "id": "5"
+      },
+      {
+        "name": "arpita",
+        "email": "arpita@gm.com",
+        "password": "arpita@1",
+        "id": "6"
+      },
+      {
+        "name": "dilkash imam",
+        "email": "dilkash12@gm.com",
+        "password": "Dilkash!!!",
+        "id": "7"
+      },
+      {
+        "name": "dilkash imam",
+        "email": "dilkash12@gm.com",
+        "password": "Dilkash!!!",
+        "id": "8"
+      },
+      {
+        "name": "ZA==",
+        "email": "ZA==",
+        "password": "ZA==",
+        "id": "9"
+      },
+      {
+        "name": "ZGlsa3NoIGltYW0=",
+        "email": "ZGlsa2FzaDFAeWFob28uY29t",
+        "password": "RGlsa2FzaA==",
+        "id": "10"
+      }
+    ],
+    "restaurant": [
+      {
+        "name": "Mac D fd",
+        "address": "sanjay place agra",
+        "contact": "90283423",
+        "id": "4"
+      },
+      {
+        "name": "Dominos",
+        "address": "bhagwan takies agra",
+        "contact": "6523154623",
+        "id": "5"
+      },
+      {
+        "name": "kfc",
+        "address": "sector 3 agra",
+        "contact": "863265413",
+        "id": "1"
+      },
+      {
+        "id": "bf00",
+        "name": "Dilkash Imam",
+        "address": "bhagwan takies agra",
+        "contact": "209342"
+      },
+      {
+        "id": "5abf",
+        "name": "test",
+        "address": "sanjay place",
+        "contact": "6523154623"
+      },
+      {
+        "id": "5fd7",
+        "name": "sadf",
+        "address": "sadar bazar",
+        "contact": "6523154623"
+      }
+    ],
+    "primiumMember": [
+      "email"
+    ]
+  }
